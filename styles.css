@@ -53,3 +53,24 @@
     width: 100%;
     height: 36px;
 }
+
+.jumbotron
+{
+    background-image: url("images/surfing.png");
+    background-size: cover;
+    height: 332px;
+}
+
+.wave
+{
+    text-align:center;
+    font-size: 30px;
+    color: #000;
+}
+
+.stream
+{
+    text-align: center;
+    font-size: 15px;
+    color: #FFF;
+}
